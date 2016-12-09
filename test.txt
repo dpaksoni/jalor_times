@@ -1,0 +1,28 @@
+GIT
+
+LVDE DHYAAN DE
+reply?
+jinda hia?
+
+HA
+ BOL
+
+Git, SVN and ese bhut sare ways hai source code ko manage krne ke lie
+isme kya hota hai ki jab bhut sare log ek hi project pe kaam krte hai to wo sb bhasad mach jati hai, mai krta hu t tera code udd jata hia, tu krta h tb mera ud jata hai
+
+un sb se bachne ke lie git, svn etc kaam  ate hai
+
+HMMM
+
+isme kya hoga ki
+jese tune 2 file banayi - 1.html,2.html
+fir tune git mai add kr di
+
+mai jab kaam krne aaunga to sbse phle git update krunga, usse wo 2 files apne aap mere pass aa jaye
+
+to git me upload kese karu me
+btaa hu.
+
+ab jese maine ye text.txt banayi hai. ab ye git maii uplload krta hu
+ok
+ok
